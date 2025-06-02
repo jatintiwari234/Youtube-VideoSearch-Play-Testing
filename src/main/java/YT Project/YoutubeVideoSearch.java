@@ -31,8 +31,6 @@ public class YoutubeVideoSearch {
         }
         
         driver.quit();
-
-     
         
     }
 }
