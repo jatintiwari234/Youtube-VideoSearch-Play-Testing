@@ -1,4 +1,4 @@
-# ▶️ YouTube Video Search Automation
+# YouTube Video Search Automation
 
 This is a simple Selenium automation script that opens YouTube, searches for "nature in 4k", and plays the first video result.
 
